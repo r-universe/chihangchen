@@ -1,9 +1,0 @@
-[
-  {
-    "package": "KeyboardSimulator"
-  },
-  {
-    "package": "SRTtools",
-    "oncran": true
-  }
-]
