@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "KeyboardSimulator"]
 	path = KeyboardSimulator
 	url = https://github.com/chihangchen/keyboardsimulator
-	shallow = true
-	registered = true
 [submodule "SRTtools"]
 	path = SRTtools
 	url = https://github.com/chihangchen/srttools
-	shallow = true
-	registered = true
