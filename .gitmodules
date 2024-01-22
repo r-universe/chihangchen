@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "KeyboardSimulator"]
-	path = KeyboardSimulator
-	url = https://github.com/chihangchen/keyboardsimulator
 [submodule "SRTtools"]
 	path = SRTtools
 	url = https://github.com/chihangchen/srttools
